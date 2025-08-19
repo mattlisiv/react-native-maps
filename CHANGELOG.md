@@ -1,5 +1,40 @@
 # Changelog
 
+## [1.24.4](https://github.com/react-native-maps/react-native-maps/compare/v1.24.3...v1.24.4) (2025-07-13)
+
+
+### Bug Fixes
+
+* **ios:** polyline fillColor not implemented ([#5614](https://github.com/react-native-maps/react-native-maps/issues/5614)) ([5a2ab35](https://github.com/react-native-maps/react-native-maps/commit/5a2ab355e249369591c85d16fd46eb578901fd12))
+
+## [1.24.3](https://github.com/react-native-maps/react-native-maps/compare/v1.24.2...v1.24.3) (2025-06-09)
+
+
+### Bug Fixes
+
+* **android:** fix NPE crash on pause ([#5555](https://github.com/react-native-maps/react-native-maps/issues/5555)) ([ae8d38c](https://github.com/react-native-maps/react-native-maps/commit/ae8d38c672e1671ea53f28336b11fbbb139e861f))
+
+## [1.24.2](https://github.com/react-native-maps/react-native-maps/compare/v1.24.1...v1.24.2) (2025-06-09)
+
+
+### Bug Fixes
+
+* **ios:** googleMaps marker images not visible ([#5554](https://github.com/react-native-maps/react-native-maps/issues/5554)) ([1924954](https://github.com/react-native-maps/react-native-maps/commit/19249543e9da1cbfdf2035964e232a458c562e64))
+
+## [1.24.1](https://github.com/react-native-maps/react-native-maps/compare/v1.24.0...v1.24.1) (2025-06-08)
+
+
+### Bug Fixes
+
+* **AppleMaps:** polygon strokeWidth ([#5549](https://github.com/react-native-maps/react-native-maps/issues/5549)) ([c2addb5](https://github.com/react-native-maps/react-native-maps/commit/c2addb5830a6097d8818a93cd865dbf549e83569))
+
+# [1.24.0](https://github.com/react-native-maps/react-native-maps/compare/v1.23.12...v1.24.0) (2025-06-08)
+
+
+### Features
+
+* **AppleMaps:** add support for centerOffset for Marker ([#5548](https://github.com/react-native-maps/react-native-maps/issues/5548)) ([73ab17d](https://github.com/react-native-maps/react-native-maps/commit/73ab17dc73f60bd51423f8161843455c23827cc9))
+
 ## [1.23.12](https://github.com/react-native-maps/react-native-maps/compare/v1.23.11...v1.23.12) (2025-06-08)
 
 
